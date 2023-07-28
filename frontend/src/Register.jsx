@@ -8,7 +8,7 @@ const Register = () => {
 
     const registerform = async (e) => {
         e.preventDefault();
-        const response = await fetch('/api/register', {
+        const response = await fetch('/register', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
