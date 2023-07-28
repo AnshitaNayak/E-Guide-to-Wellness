@@ -73,7 +73,7 @@ setInterval(async () => {
 //     res.render('home', { islogin });
 // })
 
-app.post('/api/register', async (req, res) => {
+app.post('/register', async (req, res) => {
     try {
         await User.create({
             name: req.body.name,
