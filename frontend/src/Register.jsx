@@ -8,7 +8,7 @@ const Register = () => {
 
     const registerform = async (e) => {
         e.preventDefault();
-        const response = await fetch('/register', {
+        const response = await fetch('https://tasty-lime-lapel.cyclic.app/api/register', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
