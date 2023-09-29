@@ -1,5 +1,5 @@
 
-# E-Guide to Wellness
+# Wellness E-guide
 
 E-Guide to Wellness is a front-end application based on ReactJS. It is a solution for detecting a disease on the basis of symptoms entered by the user. Through it one can also help the society in saving the lives of a large number of people by providing details about precaution and prevention from disease. 
 
