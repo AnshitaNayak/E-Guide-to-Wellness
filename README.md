@@ -41,7 +41,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd E-Guide to Wellness
+  cd Wellness E-guide
 ```
 
 Install dependencies via NPM or Yarn
